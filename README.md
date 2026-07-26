@@ -5,3 +5,7 @@ The goal is to transform raw sales data into an interactive dashboard that helps
 businesses monitor performance, identify top-selling products, compare regional
 sales, and make data-driven decisions.
 
+## Dataset Used
+https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset
+
+
