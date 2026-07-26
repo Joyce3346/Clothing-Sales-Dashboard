@@ -1,2 +1,7 @@
-# Clothing-Sales-Dashboard
-I created an interactive business intelligence Clothing Sales Dashboard designed to analyze and monitor sales performance for a clothing retail business. 
+# Clothing-Sales-Data-Analysis (Interactive Dashboard Created Using Power BI)
+
+# Project Objective:
+The goal is to transform raw sales data into an interactive dashboard that helps
+businesses monitor performance, identify top-selling products, compare regional
+sales, and make data-driven decisions.
+
