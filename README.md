@@ -6,7 +6,7 @@ businesses monitor performance, identify top-selling products, compare regional
 sales, and make data-driven decisions.
 
 ## Dataset Used
-- <a href=*https://github.com/Joyce3346/Clothing-Sales-Dashboard/blob/main/Project%20one%20(shopping_trends).xlsx*>Dataset</a>
+[Dataset](https://github.com/Joyce3346/Clothing-Sales-Dashboard/blob/main/Project%20one%20(shopping_trends).xlsx)
 
 ## KPIs
 The dashboard highlights key business metrics at the top for quick decision-making:
@@ -15,7 +15,7 @@ The dashboard highlights key business metrics at the top for quick decision-maki
 •	Average Order Value: $25.35
 •	Average Rating: 3.75
 
-- <a href=*http://github.com/Joyce3346/Clothing-Sales-Dashboard/blob/main/Screenshot%202026-07-26%20192432.png*>Dashboardlink</a>
+[Dashboard link](http://github.com/Joyce3346/Clothing-Sales-Dashboard/blob/main/Screenshot%202026-07-26%20192432.png)
 
 ## Customer Demographic Analysis
 Sales by Age Category
