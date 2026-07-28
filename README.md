@@ -1,4 +1,4 @@
-# Clothing-Sales-Data-Analysis (Interactive Dashboard Created Using Power BI)
+# HexSoftwares_Sales-Dashboard-Analysis-in-Excel-And-PowerBI_(Interactive Dashboard Created Using Power BI)
 
 # Project Objective:
 The goal is to transform raw sales data into an interactive dashboard that helps
@@ -46,7 +46,7 @@ oOuterwear
 Clothing generates the highest revenue, making it the strongest-performing category.
 
 ## Geographic Sales Analysis
-##Top 5 Sales by Location
+## Top 5 Sales by Location
 Highlights the best-performing states/locations.
 Examples include West Virginia, Virginia, and Washington.
 Bottom Sales by Location
